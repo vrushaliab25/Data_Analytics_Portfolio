@@ -1,0 +1,9 @@
+Property_ID,City,Occupancy_Rate,Monthly_Rent_USD,Maintenance_Cost_USD
+101,Chicago,92,12000,1200
+102,Chicago,85,9500,1800
+103,Dallas,95,15000,900
+104,Dallas,88,13200,1400
+105,Atlanta,90,11000,1000
+106,Atlanta,78,8900,2200
+107,Seattle,97,17000,800
+108,Seattle,93,16000,950
